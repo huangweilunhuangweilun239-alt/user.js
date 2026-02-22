@@ -8,6 +8,7 @@
 // @match        https://poki.cn/*
 // @match        https://minefun.io/*
 // @match        https://poki.com/zh/g/combat-online
+// @match        https://swordmasters.io/*
 // @grant        none
 // @run-at       document-start
 // ==/UserScript==
